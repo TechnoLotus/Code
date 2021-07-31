@@ -1,0 +1,12 @@
+/.vscode
+/ANN_bare_cluster_features.h5
+/ANN_bare_cluster_features_fee.h5
+/ANN_bare_cluster_features_pubtranspsplit_fee.h5
+/ANN_bare_cluster_fee.h5
+/ANN_bare_cluster_pubtransp.h5
+/ANN_bare_cluster_pubtranspsplit.h5
+/ANN_bare_neighborhood_features.h5
+/ANN_bare_neighborhood_features_pubtranspsplit.h5
+/ANN_bare_neighborhood_fee.h5
+/ANN_bare_neighborhood_pubtransp.h5
+/tempdata
