@@ -138,7 +138,7 @@ app.layout = html.Div(children=[
                 html.Button(id='submit-button', n_clicks=0, children='Submit'),
                 html.Br(),
                 
-                html.H1(id='output-pred')])
+                html.H4(id='output-pred')])
         ])
     ])
 ])
