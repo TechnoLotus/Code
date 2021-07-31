@@ -53,7 +53,7 @@ app.layout = html.Div(children=[
     style={'margin-left': '0', 'textAlign': 'left', 'float': 'left'}),
     
     html.Img(
-        src='https://raw.githubusercontent.com/TechnoLotus/Code/master/Images/eu.jpg',
+        src='https://raw.githubusercontent.com/TechnoLotus/Code/master/Images/mypic.jpg',
         className='three columns',
         style={
             'height': '5%',
